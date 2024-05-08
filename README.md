@@ -1,4 +1,4 @@
-[![MasterHead](![image](![196879565-4d03f914-da29-4629-98ea-219d63a43940](https://github.com/Aadi-Agr/Aadi-Agr/assets/151006837/7ccf4868-a830-4de5-a638-dcd9e294aec8)
+[![MasterHead](![image](![196879565-4d03f914-da29-4629-98ea-219d63a43940](https://github.com/Harshit-Bhatnagar/Harshit-Bhatnagar/assets/151006837/7ccf4868-a830-4de5-a638-dcd9e294aec8)
 
 <h1 align="center">Hi 👋, I'm Aaditya Agrawal</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
