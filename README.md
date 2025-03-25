@@ -37,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aadi-Agr&show_icons=true&locale=en&layout=compact" alt="Aadi-Agr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadi-Agr&show_icons=true&locale=en" alt="Aadi-Agr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi-Agr&" alt="Aadi-Agr" /></p>
