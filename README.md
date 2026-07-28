@@ -33,6 +33,3 @@
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
     
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aadi-Agr&show_icons=true&locale=en&layout=compact" alt="Aadi-Agr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadi-Agr&show_icons=true&locale=en" alt="Aadi-Agr" /></p>
