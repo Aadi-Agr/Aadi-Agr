@@ -3,13 +3,14 @@
 <h1 align="center">Hi 👋, I'm Aaditya Agrawal</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aadi-Agr" alt="Aadi-Agr" /></a> </p>
 
-- 📫 How to reach me **shivaagrawal2003@gmail.com**
+- 📫 How to reach me **shivaagrawal2003@gmail.com or any other social media below.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aadityaagrawal59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityaagrawal59" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaditya-agrawal-824b24255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="aaditya-agrawal-824b24255" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Shiva-Aadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shiva-Aadi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shiva_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shiva_2003" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/sunnykrishan2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunnykrishan2001" height="30" width="40" /></a>
